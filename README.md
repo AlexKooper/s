@@ -1,1 +1,1 @@
-# s
+{"name": "Alex boot", "channel_id": "432433653117616128", "token": "0lJLzNt1_NACFS08jcgecSjLe0q63dCiYkc7NuEWSy40sGgBmbB8sIOA0ZruvdYdban-", "avatar": null, "guild_id": "432433652404715520", "id": "500610623772688384"}
